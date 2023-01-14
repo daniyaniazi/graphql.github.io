@@ -2117,10 +2117,10 @@
     "@types/node" "*"
     "@types/responselike" "*"
 
-"@types/codemirror@5.60.5":
-  version "5.60.5"
-  resolved "https://registry.yarnpkg.com/@types/codemirror/-/codemirror-5.60.5.tgz#5b989a3b4bbe657458cf372c92b6bfda6061a2b7"
-  integrity sha512-TiECZmm8St5YxjFUp64LK0c8WU5bxMDt9YaAek1UqUb9swrSCoJhh92fWu1p3mTEqlHjhB5sY7OFBhWroJXZVg==
+"@types/codemirror@5.60.6":
+  version "5.60.6"
+  resolved "https://registry.yarnpkg.com/@types/codemirror/-/codemirror-5.60.6.tgz#0511ed51d087ad2a2eedb6111fc74e739c4549f6"
+  integrity sha512-JIDPSvkYRlcv/2F0erqD+de2ni/Mz6FJMEGb0vwF6ByQOcHIKfiEfwrO4d6dSRwYeHyNUMpGjev0PyjX2M0XWw==
   dependencies:
     "@types/tern" "*"
 
@@ -3570,10 +3570,10 @@ codemirror-graphql@1.2.11:
     "@codemirror/stream-parser" "^0.19.2"
     graphql-language-service "^4.1.4"
 
-codemirror@5.65.1:
-  version "5.65.1"
-  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.65.1.tgz#5988a812c974c467f964bcc1a00c944e373de502"
-  integrity sha512-s6aac+DD+4O2u1aBmdxhB7yz2XU7tG3snOyQ05Kxifahz7hoxnfxIRHxiCSEv3TUC38dIVH8G+lZH9UWSfGQxA==
+codemirror@5.65.11:
+  version "5.65.11"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.65.11.tgz#c818edc3274788c008f636520c5490a1f7009b4f"
+  integrity sha512-Gp62g2eKSCHYt10axmGhKq3WoJSvVpvhXmowNq7pZdRVowwtvBR/hi2LSP5srtctKkRT33T6/n8Kv1UGp7JW4A==
 
 color-convert@^1.9.0:
   version "1.9.3"
